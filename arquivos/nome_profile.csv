@@ -1,0 +1,6 @@
+URL;USUARIO;SENHA;PLATAFORMA;SISTEMAOPERACIONAL;VERSAOSISTEMA;DESCRICAOADICIONAL
+http://mantis-prova.base2.com.br/login_page.php;emanuelle.menali;123456;X86;WINDOWS;7;TESTE COM TODOS OS PARAMETROS xxxxxxxxxddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+http://mantis-prova.base2.com.br/login_page.php;emanuelle.menali;123456;;LINUX;SOLARIS;TESTE COM OPERATING SYSTEM E OSVERSION
+http://mantis-prova.base2.com.br/login_page.php;emanuelle.menali;123456;X64;;10.1;
+http://mantis-prova.base2.com.br/login_page.php;emanuelle.menali;123456;PC;WINDOWS;;
+http://mantis-prova.base2.com.br/login_page.php;emanuelle.menali;123456;MAC;;9.2;TESTE 
